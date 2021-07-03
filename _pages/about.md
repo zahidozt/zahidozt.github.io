@@ -15,13 +15,21 @@ My research interests include wireless sensing and signal processing. Specifical
 Prior to that, I received my B.S degree from the [Department of Electrical & Electronics Engineering](https://ee.boun.edu.tr/), [Bogazici University](http://boun.edu.tr/en-US/Index), Istanbul, Turkey.
 
 # Education
+* Ph.D. in Electrical & Computer Engineering, University of Maryland, College Park, 2023 (expected)
+* B.S. in Electrical & Electronics Engineering, Bogazici University, Istanbul, Turkey, 2018
+* B.S. Exchange Student in Electrical & Computer Engineering, The University of Texas at Austin, 2016
 
 # Publications
+* **M. Z. Ozturk**, C. Wu, B. Wang, and K. J. R. Liu, "GaitCube: Deep Data Cube Learning for Human Recognition with Millimeter- Wave Radio," in *IEEE Internet of Things Journal*, doi: 10.1109/JIOT.2021.3083934, to appear.
+* **M. Z. Ozturk**, C. Wu, B. Wang, and K. J. Ray Liu, "Gait-Based People Identification Using Millimeter-Wave Radio," in *Proceedings of IEEE WF-IoT 2021*, to appear.
+* **M. Z. Ozturk**, C. Wu, B. Wang, and K. J. Ray Liu, "Sound Recovery from Radio Signals," in *Proceedings of IEEE ICASSP 2021*, pp. 8022-8026, doi: 10.1109/ICASSP39728.2021.9413508.
+* Y. Hu, **M. Z. Ozturk**, F. Zhang, B. Wang, and K. J. Ray Liu, "Robust Device-Free Proximity Detection Using Wifi," in *Proceedings of IEEE ICASSP 2021*, pp. 7918-7922, doi: 10.1109/ICASSP39728.2021.9414707.
 
 # Experience
 
 # Teaching
 
 # Other
+
 
 Under construction for now.
