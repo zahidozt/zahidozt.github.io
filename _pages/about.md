@@ -20,10 +20,10 @@ Prior to that, I received my B.Sc. degree from the [Department of Electrical & E
 * B.S. Exchange Student in Electrical & Computer Engineering, The University of Texas at Austin, 2016
 
 # Publications
-* **M. Z. Ozturk**, C. Wu, B. Wang, and K. J. R. Liu, "GaitCube: Deep Data Cube Learning for Human Recognition with Millimeter-Wave Radio," in *IEEE Internet of Things Journal*, doi: 10.1109/JIOT.2021.3083934, to appear.
+* **M. Z. Ozturk**, C. Wu, B. Wang, and K. J. R. Liu, "[GaitCube: Deep Data Cube Learning for Human Recognition with Millimeter-Wave Radio](https://ieeexplore.ieee.org/document/9440988)," in *IEEE Internet of Things Journal*, doi: 10.1109/JIOT.2021.3083934, to appear.
 * **M. Z. Ozturk**, C. Wu, B. Wang, and K. J. Ray Liu, "Gait-Based People Identification Using Millimeter-Wave Radio," in *Proceedings of IEEE WF-IoT 2021*, to appear.
-* **M. Z. Ozturk**, C. Wu, B. Wang, and K. J. Ray Liu, "Sound Recovery from Radio Signals," in *Proceedings of IEEE ICASSP 2021*, pp. 8022-8026, doi: 10.1109/ICASSP39728.2021.9413508.
-* Y. Hu, **M. Z. Ozturk**, F. Zhang, B. Wang, and K. J. Ray Liu, "Robust Device-Free Proximity Detection Using Wifi," in *Proceedings of IEEE ICASSP 2021*, pp. 7918-7922, doi: 10.1109/ICASSP39728.2021.9414707.
+* **M. Z. Ozturk**, C. Wu, B. Wang, and K. J. Ray Liu, "[Sound Recovery from Radio Signals](https://ieeexplore.ieee.org/document/9413508)," in *Proceedings of IEEE ICASSP 2021*, pp. 8022-8026, doi: 10.1109/ICASSP39728.2021.9413508.
+* Y. Hu, **M. Z. Ozturk**, F. Zhang, B. Wang, and K. J. Ray Liu, "[Robust Device-Free Proximity Detection Using Wifi](https://ieeexplore.ieee.org/document/9414707)," in *Proceedings of IEEE ICASSP 2021*, pp. 7918-7922, doi: 10.1109/ICASSP39728.2021.9414707.
 
 # Teaching
 I have been a TA for courses signal and systems, and multimedia signal processing for the academic year 2018-2019, received Outstanding TA award from the Department of ECE, and George Corcoran Memorial Award for teaching.
