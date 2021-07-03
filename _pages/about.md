@@ -29,4 +29,4 @@ Prior to that, I received my B.S degree from the [Department of Electrical & Ele
 I have been a TA for courses signal and systems, and multimedia signal processing for the academic year 2018-2019, received Outstanding TA award from ECE Dept., and George Corcoran Memorial Award for teaching.
 
 # Other
-I like to volunteer and help people. Recently, a couple of friends and me have started an organization called [ONGOR](oncugonuller.com) to help other international students on getting into PhD programms. Furthermore, we have partnered with another program, [Fatima Fellowship](http://fatimafellowship.com/), to provide a means for research collaboration. 
+I like to volunteer and help people. Recently, a couple of friends and me have started an organization called [ONGOR](https://www.oncugonuller.com/) to help other international students on getting into PhD programs. Furthermore, we have partnered with another program, [Fatima Fellowship](http://fatimafellowship.com/), to provide a means for international research collaboration, in computer science and social sciences. Feel free to reach out to me! 
