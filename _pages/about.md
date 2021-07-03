@@ -25,11 +25,8 @@ Prior to that, I received my B.S degree from the [Department of Electrical & Ele
 * **M. Z. Ozturk**, C. Wu, B. Wang, and K. J. Ray Liu, "Sound Recovery from Radio Signals," in *Proceedings of IEEE ICASSP 2021*, pp. 8022-8026, doi: 10.1109/ICASSP39728.2021.9413508.
 * Y. Hu, **M. Z. Ozturk**, F. Zhang, B. Wang, and K. J. Ray Liu, "Robust Device-Free Proximity Detection Using Wifi," in *Proceedings of IEEE ICASSP 2021*, pp. 7918-7922, doi: 10.1109/ICASSP39728.2021.9414707.
 
-# Experience
-
 # Teaching
+I have been a TA for courses signal and systems, and multimedia signal processing for the academic year 2018-2019, received Outstanding TA award from ECE Dept., and George Corcoran Memorial Award for teaching.
 
 # Other
-
-
-Under construction for now.
+I like to volunteer and help people. Recently, a couple of friends and me have started an organization called [ONGOR](oncugonuller.com) to help other international students on getting into PhD programms. Furthermore, we have partnered with another program, [Fatima Fellowship](http://fatimafellowship.com/), to provide a means for research collaboration. 
