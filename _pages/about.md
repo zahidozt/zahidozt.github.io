@@ -26,7 +26,7 @@ Prior to that, I received my B.Sc. degree from the [Department of Electrical & E
 * Y. Hu, **M. Z. Ozturk**, F. Zhang, B. Wang, and K. J. Ray Liu, "[Robust Device-Free Proximity Detection Using Wifi](https://ieeexplore.ieee.org/document/9414707)," in *Proceedings of IEEE ICASSP 2021*, pp. 7918-7922, doi: 10.1109/ICASSP39728.2021.9414707.
 
 # Teaching
-I have been a TA for courses signal and systems, and multimedia signal processing for the academic year 2018-2019, received Outstanding TA award from the Department of ECE, and George Corcoran Memorial Award for teaching.
+I have been a TA for ENEE322: Signals and Systems, and ENEE408G: Multimedia Signal Processing during the academic year 2018-2019, received Outstanding TA award from the Department of ECE, and George Corcoran Memorial Award for teaching.
 
 # Other
 I like to be a part of volunteering organizations, and help people. Recently, a couple of friends and I have started an organization called [ONGOR](https://www.oncugonuller.com/) (available in Turkish) to help other international students on getting into PhD programs. We have also partnered with another program, [Fatima Fellowship](http://fatimafellowship.com/), to provide a means for international research collaboration, in computer science and social sciences. Feel free to reach out to me, if you'd like to learn more! 
