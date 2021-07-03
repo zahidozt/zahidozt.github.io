@@ -83,7 +83,7 @@ author:
   name             : "M. Zahid Ozturk"
   avatar           : "ozturk.jpeg"
   bio              : "PhD Student at University of Maryland, College Park"
-  location         : "College Park, Md"
+  location         : "College Park, MD"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
@@ -225,8 +225,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _portfolio
   - scope:
       path: ""
