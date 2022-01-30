@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Ph.D. Candidate at Department of Electrical & Computer Engineering [(ECE)](https://ece.umd.edu/), University of Maryland, College Park [(UMD)](https://umd.edu/), working under the supervision of [K. J. Ray Liu](http://www.cspl.umd.edu/kjrliu/), at [Signals and Information Group (SIG)](http://sig.umd.edu/).
 
-My research interests include wireless sensing and signal processing, where our projects are usually end-to-end systems with classical signal processing front-end, combined with deep learning. Specifically, I work on projects that use 2.4/5/60/77 GHz Wi-Fi and Radar devices for different sensing applications, including human monitoring (e.g. breathing, gait) and environment monitoring (e.g. sound, vibration). My recent work focuses on sensing sound and related applications using mmWave radars. We have initially explored sensing sound from daily objects (ICASSP 2021), and speaker surfaces. Recently, we have proposed a multimodal system that combines audio and radio modalities for speech enhancement and separation (ICASSP 2022).
+My research interests include wireless sensing and signal processing, where our projects are usually end-to-end systems with classical signal processing front-end, combined with deep learning. Specifically, I work on projects that use 2.4/5/60/77 GHz Wi-Fi and Radar devices for different sensing applications, including human monitoring (e.g. breathing, gait) and environment monitoring (e.g. sound, vibration). My recent work focuses on sensing sound and related applications using mmWave radars. We have initially explored sensing sound from daily objects (ICASSP 2021) and speaker surfaces. More recently, we have proposed a multimodal system that combines audio and radio modalities for speech enhancement and separation (ICASSP 2022).
 
 Prior to my Ph.D., I received my B.S. degree from the [Department of Electrical & Electronics Engineering](https://ee.boun.edu.tr/), [Bogazici University](http://boun.edu.tr/en-US/Index), Istanbul, Turkey.
 
@@ -26,7 +26,7 @@ Prior to my Ph.D., I received my B.S. degree from the [Department of Electrical 
 
 [J3] Y. Hu, **M. Z. Ozturk**, B. Wang, C. Wu, F. Zhang, and K. J. R. Liu, "Robust Passive Proximity Detection using Wi-Fi", *submitted*
 
-[J2] **M. Z. Ozturk**, C. Wu, B. Wang, and K. J. R. Liu, "[RadioMic: Sound Sensing via mmWave Signals](https://arxiv.org/abs/2108.03164)," *submitted, Preprint Available*
+[J2] **M. Z. Ozturk**, C. Wu, B. Wang, and K. J. R. Liu, "[RadioMic: Sound Sensing via mmWave Signals](https://arxiv.org/abs/2108.03164)," *submitted*
 
 [J1] **M. Z. Ozturk**, C. Wu, B. Wang, and K. J. R. Liu, "[GaitCube: Deep Data Cube Learning for Human Recognition with Millimeter-Wave Radio](https://ieeexplore.ieee.org/document/9440988)," in *IEEE Internet of Things Journal*, vol. 9, no. 1, pp. 546-557, 1 Jan.1, 2022, doi: 10.1109/JIOT.2021.3083934.
 
@@ -40,6 +40,11 @@ Prior to my Ph.D., I received my B.S. degree from the [Department of Electrical 
 
 # Teaching
 I have been a TA for ENEE322: Signals and Systems, and ENEE408G: Multimedia Signal Processing during the academic year 2018-2019, received Outstanding TA award from the Department of ECE, and George Corcoran Memorial Award for teaching.
+
+# Graduate Coursework
+* **Electrical Engineering:** Advanced Digital Signal Processing, System Theory, Random Processes, Information Theory, Detection and Estimation Theory, Learning and Statistical Signal Processing, Convex Optimization
+* **Computer Science:** Advanced Numerical Optimization, Statistical Pattern Recognition, Wireless and Mobile Systems for IoT
+* **Statistics:** Time Series Analysis
 
 # Other
 I like to help people academically on a volunteering basis. Recently, a couple of friends and I have started an organization called [ONGOR](https://www.oncugonuller.com/) (available in Turkish) to help other international students on getting into the PhD programs. We have also partnered with another program, [Fatima Fellowship](http://fatimafellowship.com/), to provide a means for international research collaboration in computer science and social sciences. If you'd like to learn more, feel free to reach out to me! 
