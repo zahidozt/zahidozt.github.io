@@ -22,7 +22,7 @@ Prior to my Ph.D., I received my B.S. degree from the [Department of Electrical 
 
 # Publications
 
-[C4] **M. Z. Ozturk**, C. Wu, B. Wang, and K. J. R. Liu, "Toward mmWave Based Sound Enhancement and Separation," *to appear * in *Proceedings of IEEE ICASSP 2022*.
+[C4] **M. Z. Ozturk**, C. Wu, B. Wang, and K. J. R. Liu, "Toward mmWave Based Sound Enhancement and Separation," *to appear in Proceedings of IEEE ICASSP 2022*.
 
 [J3] Y. Hu, **M. Z. Ozturk**, B. Wang, C. Wu, F. Zhang, and K. J. R. Liu, "Robust Passive Proximity Detection using Wi-Fi", *submitted*
 
