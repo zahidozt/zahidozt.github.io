@@ -21,12 +21,19 @@ Prior to my Ph.D., I received my B.S. degree from the [Department of Electrical 
 * B.S. Exchange Student in Electrical & Computer Engineering, The University of Texas at Austin, 2016
 
 # Publications
+
 [C4] **M. Z. Ozturk**, C. Wu, B. Wang, and K. J. R. Liu, "Toward mmWave Based Sound Enhancement and Separation," *to appear * in *Proceedings of IEEE ICASSP 2022*.
-[J3] Y. Hu, **M. Z. Ozturk**, B. Wang, C. Wu, F. Zhang and K. J. R. Liu, "Robust Passive Proximity Detection using Wi-Fi", *submitted*
+
+[J3] Y. Hu, **M. Z. Ozturk**, B. Wang, C. Wu, F. Zhang, and K. J. R. Liu, "Robust Passive Proximity Detection using Wi-Fi", *submitted*
+
 [J2] **M. Z. Ozturk**, C. Wu, B. Wang, and K. J. R. Liu, "[RadioMic: Sound Sensing via mmWave Signals](https://arxiv.org/abs/2108.03164)," *submitted, Preprint Available*
+
 [J1] **M. Z. Ozturk**, C. Wu, B. Wang, and K. J. R. Liu, "[GaitCube: Deep Data Cube Learning for Human Recognition with Millimeter-Wave Radio](https://ieeexplore.ieee.org/document/9440988)," in *IEEE Internet of Things Journal*, vol. 9, no. 1, pp. 546-557, 1 Jan.1, 2022, doi: 10.1109/JIOT.2021.3083934.
+
 [C3] **M. Z. Ozturk**, C. Wu, B. Wang, and K. J. R. Liu, "[Gait-Based People Identification Using Millimeter-Wave Radio](https://ieeexplore.ieee.org/document/9595283)" in *Proceedings of IEEE 7th WF-IoT 2021*, pp. 391-396, doi: 10.1109/WF-IoT51360.2021.9595283.
+
 [C2] **M. Z. Ozturk**, C. Wu, B. Wang, and K. J. R. Liu, "[Sound Recovery from Radio Signals](https://ieeexplore.ieee.org/document/9413508)," in *Proceedings of IEEE ICASSP 2021*, pp. 8022-8026, doi: 10.1109/ICASSP39728.2021.9413508.
+
 [C1] Y. Hu, **M. Z. Ozturk**, F. Zhang, B. Wang, and K. J. R. Liu, "[Robust Device-Free Proximity Detection Using Wifi](https://ieeexplore.ieee.org/document/9414707)," in *Proceedings of IEEE ICASSP 2021*, pp. 7918-7922, doi: 10.1109/ICASSP39728.2021.9414707.
 
 [P1] Y. Hu, B. Wang, **M. Z. Ozturk**, F. Zhang, K. J. R. Liu, O. C.-L. Au, X. Zeng, C. Wu, and F. Wang. "Method, apparatus, and system for wireless proximity sensing." *U.S. Patent Application 17/214,841*, filed July 15, 2021.
