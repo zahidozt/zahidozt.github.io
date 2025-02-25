@@ -33,8 +33,6 @@ Prior to my Ph.D., I received my B.S. degree from the [Department of Electrical 
 
 # Publications
 
-[C4] **M. Z. Ozturk**, C. Wu, B. Wang, and K. J. R. Liu, "Toward mmWave Based Sound Enhancement and Separation," *to appear in Proceedings of IEEE ICASSP 2022*.
-
 [J5] **M. Z. Ozturk**, C. Wu, B. Wang, M. Wu and K. J. R. Liu, "[RadioVAD: mmWave-Based Noise and Interference-Resilient Voice Activity Detection](https://ieeexplore.ieee.org/document/10509864)," in *IEEE Internet of Things Journal*, vol. 11, no. 15, pp. 26005-26019, doi: 10.1109/JIOT.2024.3394353. 
 
 [J4] **M. Z. Ozturk**, C. Wu, B. Wang, M. Wu and K. J. R. Liu, "[RadioSES: mmWave-Based Audioradio Speech Enhancement and Separation System,](https://ieeexplore.ieee.org/document/10057023)" in  *IEEE/ACM Transactions on Audio, Speech, and Language Processing* , vol. 31, pp. 1333-1347, 2023, doi: 10.1109/TASLP.2023.3250846.
