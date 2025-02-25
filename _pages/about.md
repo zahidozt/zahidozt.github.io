@@ -10,7 +10,7 @@ redirect_from:
 I'm currently a principal scientist at [Origin Wireless AI](https://www.originwirelessai.com/),
 building real-world Wi-Fi sensing products.
 I received my Ph.D. in 2022 from the Department of Electrical & Computer Engineering at University of Maryland, College Park. 
-During my PhD. I worked under the supervision of [K. J. Ray Liu](http://www.cspl.umd.edu/kjrliu/), at [Signals and Information Group (SIG)](http://sig.umd.edu/).
+During my PhD, I worked under the supervision of [K. J. Ray Liu](http://www.cspl.umd.edu/kjrliu/), at [Signals and Information Group (SIG)](http://sig.umd.edu/).
 
 I specialize in developing and applying AI tools to create practical, high-performance, and user-friendly products.
 My expertise lies in building wireless sensing systems that use deep learning 
